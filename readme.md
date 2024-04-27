@@ -10,6 +10,10 @@ Content for the Tech Interview Preparation Series
 - Tech Interview Preparation 104 - 4th March 2023 - [slides](https://docs.google.com/presentation/d/12JBUUxxfKNCZQ0ESUzx3JCfi-GJc8nEeP2ySWb7tKEA/edit?usp=sharing)
 - Tech Interview Preparation 105 - 27th April 2024 - [slides](https://docs.google.com/presentation/d/1uE_DmQpTxdHebUTQDJ8Mb1Gdbp7GHrMHFo6AW_AS7oc/edit?usp=sharing)
 
+## Related Resources
+
+- C++ STL - Oct 2018 - [slides](https://docs.google.com/presentation/d/1JF1HI31HAAXG4IlWieuKNSXXofk1CWuSX06pKo0twnM/edit?usp=sharing)
+
 ## Author
 
 [Jatin Rohilla](https://jatin69.github.io/)
